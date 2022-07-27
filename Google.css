@@ -1,0 +1,22 @@
+
+.asosiy {
+    background-color: #fff;
+    margin: 150px;
+    padding: 250px;    
+} 
+.google {
+    color:darkblue;
+    font-size: 90px;
+    font-family: arial, sans-serif; 
+    display: flex;
+    justify-content: center;
+
+}
+
+.place {
+    height: 35px;
+    width: 555px;
+    border-radius: 50px;
+
+}
+

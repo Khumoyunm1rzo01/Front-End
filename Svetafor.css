@@ -1,0 +1,24 @@
+.asosiy {
+    background-color: wheat;
+    width: 100%;
+    height: 100vh;
+}
+.bir {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.qizil {
+    background-color: red;
+}
+.sariq {
+    background-color: yellow;
+}
+.yashil {
+    background-color: green;
+}
+.qora {
+    background-color: black;
+    width: 200px;
+    margin: 0 auto;
+}

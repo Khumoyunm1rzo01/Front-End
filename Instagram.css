@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+img,
+input,
+a {
+    display: block;
+}
+.img {
+    width: 450px;
+    height: 500px;
+    margin: 5px;
+    padding: 15px;
+}
+
+.asosiy {
+    width: 100%;
+    height: 100vh;
+    background-color: #FAFAFA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ong {
+    width: 280px;
+    text-align: center;
+}
+.form {
+    color: #fff;
+    padding: 25px;
+    border: 1px solid #DBDBDB;
+}
+.form h1 {
+    font-family: 'Elephisc', cursive;
+    margin-bottom: 30px;
+    color: black;
+}
+.form input {
+    width: 222px;
+    padding: 5px 2px;
+    margin: 8px 0;
+    border: 1px solid #DBDBDB;
+    border-radius: 3px;
+}
+.login {
+    background-color: #0095F6;
+    padding: 8px 0;
+    border-radius: 3px;
+    text-decoration:  none;
+    color: #fff;
+    margin-bottom: 25px;
+}
+.face {
+    color: #385185;
+    font-weight: bold;
+    margin: 25px 0 15px 0;
+    text-decoration: none;
+}
+.forgot {
+    color: #2F507D;
+    font-size: 15px;
+    text-decoration: none;
+    margin-bottom: -10px;
+}
+.sign {
+    margin: 10px 0;
+    padding: 10px 0;
+    background-color: #fff;
+    border: 1px solid #DBDBDB;
+}
+.sign-2 {
+    display: inline;
+    text-decoration: none;
+    color: #02A5F9;
+    font-weight: bold;
+}
+.store {
+    padding: 10px;
+}
+.store p {
+    margin-bottom: 10px;
+}
+.button {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.button a {
+    background-color: #000;
+    width: 100px;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+.google {
+    margin-left: 10px;
+}
